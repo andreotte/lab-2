@@ -24,7 +24,6 @@ namespace lab2
 
                 Console.WriteLine("Volume: " + length * width * height);
 
-
                 Console.WriteLine("Continue? (y/n)");
                 string userResponse = Console.ReadLine();
                 string userResponseLower = userResponse.ToLower();
