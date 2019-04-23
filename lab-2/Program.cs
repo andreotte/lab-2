@@ -10,6 +10,8 @@ namespace lab2
 
             while (true)
             {
+
+                //comment
                 Console.WriteLine("Enter Length:");
                 double length = Convert.ToDouble(Console.ReadLine());
 
